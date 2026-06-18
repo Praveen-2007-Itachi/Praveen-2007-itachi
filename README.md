@@ -49,3 +49,5 @@
 ---
 
 ⭐ Always learning and exploring new technologies.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+😊)](https://git.io/typing-svg)
