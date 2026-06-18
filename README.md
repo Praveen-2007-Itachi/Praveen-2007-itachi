@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey, I'm Praveen Kumar 
 
-<!--
-**Praveen-2007-Itachi/Praveen-2007-itachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech AI & DS Student
 
-Here are some ideas to get you started:
+Studying Artificial Intelligence & Data Science
+Learning Python, FastAPI, PostgreSQL and Docker
+Currently doing Vel Tech Summer Internship
+Interested in AI, Data Science and Software Development
+Chennai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+Python
+Git & GitHub
+PostgreSQL
+Docker
+FastAPI
+
+About Me
+
+I am an AI & DS student passionate about learning new technologies, building projects, and gaining practical experience through internships.
