@@ -1,21 +1,47 @@
-Hey, I'm Praveen Kumar 
+# Hey, I'm Praveen Kumar 👋
 
-B.Tech AI & DS Student
+## 🎓 B.Tech AI & DS Student
 
-Studying Artificial Intelligence & Data Science
-Learning Python, FastAPI, PostgreSQL and Docker
-Currently doing Vel Tech Summer Internship
-Interested in AI, Data Science and Software Development
-Chennai, India
+🚀 Passionate about Artificial Intelligence, Data Science and Software Development.
 
-Skills
+---
 
-Python
-Git & GitHub
-PostgreSQL
-Docker
-FastAPI
+## 👨‍💻 About Me
 
-About Me
+- 🎓 B.Tech Artificial Intelligence & Data Science Student
+- 💻 Learning Python, FastAPI, PostgreSQL & Docker
+- 🚀 Currently doing Vel Tech Summer Internship
+- 🤖 Interested in AI, Data Science & Backend Development
+- 📍 Chennai, India
 
-I am an AI & DS student passionate about learning new technologies, building projects, and gaining practical experience through internships.
+---
+
+## 🛠️ Skills
+
+- Python
+- Git & GitHub
+- PostgreSQL
+- Docker
+- FastAPI
+
+---
+
+## 📚 Current Focus
+
+- Learning Backend Development
+- Building AI & Data Science Projects
+- Working on Internship Tasks
+- Improving Problem Solving Skills
+
+---
+
+## 🎯 Goals
+
+- Become a Skilled AI & Data Science Engineer
+- Build Real-World Projects
+- Contribute to Open Source
+- Secure a Good Software Career
+
+---
+
+⭐ Always learning and exploring new technologies.
