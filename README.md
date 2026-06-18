@@ -2,17 +2,17 @@
 
 ## 🎓 B.Tech AI & DS Student
 
-🚀 Passionate about Artificial Intelligence, Data Science and Software Development.
+ Passionate about Artificial Intelligence, Data Science and Software Development.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech Artificial Intelligence & Data Science Student
-- 💻 Learning Python, FastAPI, PostgreSQL & Docker
-- 🚀 Currently doing Vel Tech Summer Internship
-- 🤖 Interested in AI, Data Science & Backend Development
-- 📍 Chennai, India
+-  B.Tech Artificial Intelligence & Data Science Student
+-  Learning Python, FastAPI, PostgreSQL & Docker
+-  Currently doing Vel Tech Summer Internship
+-  Interested in AI, Data Science & Backend Development
+-  Chennai, India
 
 ---
 
