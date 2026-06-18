@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&width=500&lines=Hey,+I'm+Praveen+Kumar+👋)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=B.Tech+AI+%26+DS+Student)](https://git.io/typing-svg)
+
 
 
 
