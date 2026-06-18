@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Praveen+Kumar+%F0%9F%91%8B;AI+%26+DS+Student;Vel+Tech+Summer+Intern;Learning+Python%2C+FastAPI+%26+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&width=500&lines=Hey,+I'm+Praveen+Kumar+👋)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=500&lines=B.Tech+AI+%26+DS+Student)](https://git.io/typing-svg)
+
+
 
 ## 🎓 B.Tech AI & DS Student
 
